@@ -1,7 +1,10 @@
 ![enter image description here](https://static.platzi.com/media/platzi-isotipo@2x.png)**Platzi**																												
 																																			
-**Constelaciones**																																			
+**Constelaciones**
+
+
 Esté repositorio es para mostrar un pequeño ejercicio de **Platzi** utilizando CSS Grid.
+
 Utilizando las siguientes herramientas aprendidas:
 
 `grid` 
