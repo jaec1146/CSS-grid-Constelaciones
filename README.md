@@ -37,5 +37,10 @@ Utilizando las siguientes herramientas aprendidas:
 `justify-items`
 >Podemos ajustar la posición del elemento horizontalmente dentro de las celdas.
 
+`text-orentation`
+>Nos da la posibilidad de orientar las letras de manera que la cultura da para leer.
 
-En resumen es una pequeña demostración de lo aprendido y resaltar el poder que tiene  **Grid** en la actualidad con respecto a las anteriores posibilidades.
+`writing-mode`
+>Nos da la posibilidad de poner vertical o horizontalmente la lectura con la posibilidad de leer de derecha a izquierda o viceversa.
+
+En resumen, es una pequeña demostración de lo aprendido y resaltar el poder que tiene  **Grid** en la actualidad con respecto a las anteriores posibilidades.
